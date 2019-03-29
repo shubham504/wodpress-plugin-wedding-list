@@ -1,11 +1,11 @@
 <?php
  /*
     Plugin Name: Wedding List
-    Plugin URI: http://www.inventiveinfosys.com/
+    Plugin URI: http://www.xyz.com/
     Description: Plugin for displaying wedding list.
-    Author: InventiveInfosys
+    Author: xyz
     Version: 4.0
-    Author URI: http://www.inventiveinfosys.com/
+    Author URI: http://www.xyz.com/
     */	
 // function to create the DB / Options / Defaults					
 function ss_options_install() {
